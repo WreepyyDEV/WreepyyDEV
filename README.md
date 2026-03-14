@@ -1,4 +1,4 @@
-# Hi 👋! I'm wreepyy, an open-source developer from Turkey.
+# Hi 👋! I'm WreepyyDEV, an open-source developer from Turkey.
 
 ### 📊 GitHub Stats
 <p align="left">
