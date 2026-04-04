@@ -1,33 +1,32 @@
-<h1 align="left">Hi there, I'm WreepyyDEV</h1>
+<h1>:wave: About Me:</h1>
+<ul>
+  <li>:wave: I'm WreepyyDEV, an open-source developer from Turkey 🇹🇷.</li>
+  <li>:briefcase: Currently focused on backend technologies and open-source contributions.</li>
+  <li>:zap: In my free time, I love learning new things and contributing to the community.</li>
+</ul>
 
-<p align="left">
-  <em>Crafting premium backend solutions, high-performance server structures, and clean code.</em>
+<h2>:globe_with_meridians: Socials:</h2>
+<p>
+  <a href="https://discord.com/users/1277755313184837695"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:hydraorj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently focused on backend development and optimizing system architectures.
-- 🛠 Building robust projects utilizing **Java** and **Maven**.
-- 💻 Primarily coding and architecting in **IntelliJ IDEA** and **VS Code**.
-- 📫 Reach out for collaborations: **[Discord](https://discord.com/users/1277755313184837695)** | **[Email](mailto:hydraorj@gmail.com)**
-
-### ⚙️ Tech Stack & Tools
-
-**Languages & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,react,html,css&theme=dark" height="45" alt="Languages and Frameworks" />
+<h2>:laptop: Tech Stack:</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-**Database & DevOps & Environments**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=maven,mysql,redis,linux,idea,vscode&theme=dark" height="45" alt="Databases, Environments and DevOps" />
-</p>
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WreepyyDEV&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=888888&icon_color=36BCF7&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WreepyyDEV&theme=transparent&hide_border=true&title_color=36BCF7&text_color=888888&layout=compact" height="150" alt="Top Languages" />
-</p>
+<h2>:writing_hand: Random Dev Quote:</h2>
+<p><i><strong>"The key to keeping software costs down is to write code that is easily modified."</strong></i></p>
+<p align="right">- Daniel T. Barry</p>
